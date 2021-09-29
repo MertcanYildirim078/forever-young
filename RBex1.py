@@ -3,7 +3,10 @@ from RobotArm import RobotArm
 robotArm = RobotArm('exercise 1')
 
 # Jouw python instructies zet je vanaf hier:
-
+robotArm.moveRight()
+robotArm.grab()
+robotArm.moveLeft()
+robotArm.drop()
 
 
 
